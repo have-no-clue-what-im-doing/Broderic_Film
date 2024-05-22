@@ -1,0 +1,15 @@
+root {
+    margin: 0;
+}
+
+#photo_style {
+    width: 60%;
+    margin-bottom: 5px;
+}
+
+@media (max-width: 1200px) {
+    #photo_style {
+        width: 99%;
+        margin-bottom: 2px;
+    }
+}
